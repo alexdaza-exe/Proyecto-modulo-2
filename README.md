@@ -18,4 +18,4 @@ Aqui hay un video donde muestro y explico a grandes rasgos que hice y por que lo
 
 -En este proyecto no se ha utilizado IA
 
-[Evidencias de compilacion](capturas/)
+[Evidencias de compilacion](Capturas)
