@@ -14,7 +14,7 @@ El programa al ingresar da la bienvenida al usuario, muestra las opciones dispon
 ## Video demostrativo:
 Aqui hay un video donde muestro y explico a grandes rasgos que hice y por que lo hice bajo estos metodos, agradezco la atencion y adjunto el enlace en la parte posterior:
 
-[Video explicacion](https://youtu.be/WYyZWtFmnN0)
+[Video explicacion](https://youtu.be/5nkDoMkaKVM?si=x3vshzCCzZL_Yk16)
 
 -En este proyecto no se ha utilizado IA
 
